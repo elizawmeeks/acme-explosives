@@ -1,0 +1,146 @@
+{
+    "products": [{
+        "red_silver_peony": {
+            "id": 0,
+            "type": 0,
+            "name": "Red Wave-Silver Peony",
+            "description": "Powerful lift. Shell ascends high into the air and opens to a gigantic mix of red peony stars and silver trails."
+        }
+    },
+	{
+        "fluorescent_purple": {
+            "id": 0,
+            "type": 0,
+            "name": "Fluorescent Purple",
+            "description": "Neon purple peony burst that is spectacular in height and pattern break."
+        }
+    },
+	{
+        "orange_peony": {
+            "id": 0,
+            "type": 0,
+            "name": "Orange Peony",
+            "description": "Orange peony burst that is spectacular in height and pattern break."
+        }
+    },
+	{
+        "green_glitter": {
+            "id": 0,
+            "type": 1,
+            "name": "Green Glitter",
+            "description": "Powerful, gigantic, chrysanthemum of green glittering stars and a center pistil of crackle."
+        }
+    },
+	{
+        "pink_powershell": {
+            "id": 0,
+            "type": 1,
+            "name": "Pink Powershell",
+            "description": "Provides a powerful pink chrysanthemum burst. Perfect idea for a gender reveal or to add a bright color to your firework shoot."
+        }
+    },
+	{
+        "legion_of_fire": {
+            "id": 0,
+            "type": 1,
+            "name": "Legion of Fire",
+            "description": "Save the best for last! #500 maximum power rack has giant assorted color-changing starbursts that fly high with awesome silver palm trees and ends in a gorgeous chrysanthemum finale."
+        }
+    },
+	{
+        "grucci": {
+            "id": 0,
+            "type": 2,
+            "name": "Grucci Glitter",
+            "description": "Huge gold willow burst with strobing red stars."
+        }
+    },
+	{
+        "red_gold_willow": {
+            "id": 0,
+            "type": 2,
+            "name": "Red Palms with Crackle Pistil-Gold Willow",
+            "description": "Huge red-gold willow burst with strobing red stars."
+        }
+    },
+	{
+        "glitter_willow": {
+            "id": 0,
+            "type": 2,
+            "name": "Glitter Willow",
+            "description": "Glitter willow burst."
+        }
+    },
+	{
+        "amatol": {
+            "id": 1,
+            "type": 3,
+            "name": "Amatol",
+            "description": "Amatol is a highly explosive material made from a mixture of TNT and ammonium nitrate."
+        }
+    },
+	{
+        "anfo": {
+            "id": 1,
+            "type": 3,
+            "name": "ANFO",
+            "description": "ANFO (or AN/FO, for ammonium nitrate/fuel oil) is a widely used bulk industrial explosive."
+        }
+    },
+	{
+        "fertilizer_bomb": {
+            "id": 1,
+            "type": 3,
+            "name": "Fertilizer Bomb",
+            "description": "Ammonium nitrate is the fertilizer compound that can be used in explosives. This compound is not found in its pure form in the common fertilizers that are commercially available."
+        }
+    },
+	{
+        "kaureit": {
+            "id": 1,
+            "type": 4,
+            "name": "KAUERIT",
+            "description": "Austrian plastic explosive."
+        }
+    },
+	{
+        "semtex": {
+            "id": 1,
+            "type": 4,
+            "name": "Semtex-H",
+            "description": "Czech plastic explosive."
+        }
+    },
+	{
+        "c4": {
+            "id": 1,
+            "type": 4,
+            "name": "C4(Pure White)(Composition 4)",
+            "description": "US plastic explosive."
+        }
+    },
+	{
+        "tnt": {
+            "id": 1,
+            "type": 5,
+            "name": "TNT",
+            "description": "Though both TNT and dynamite are high explosives, there is little similarity between them. Dynamite is a stabilized form of nitroglycerin while TNT is the chemical compound trinitrotoluene."
+        }
+    },
+	{
+        "extra_dynamite": {
+            "id": 1,
+            "type": 5,
+            "name": "'Extra' Dynamite",
+            "description": "In the United States, in 1885, the chemist Russell S. Penniman invented 'ammonium dynamite', a form of explosive that used ammonium nitrate as a substitute for the more costly nitroglycerin. Ammonium nitrate has only 85% of the chemical energy of nitroglycerin."
+        }
+    },
+	{
+        "military_dynamite": {
+            "id": 1,
+            "type": 5,
+            "name": "Military Dynamite",
+            "description": "Military dynamite is a dynamite substitute, formulated without nitroglycerin."
+        }
+    }]
+}

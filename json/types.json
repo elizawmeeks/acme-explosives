@@ -1,0 +1,40 @@
+{
+    "types": [
+        {
+            "id": 0,
+            "category": 0,
+            "name": "peony",
+            "description": "A spherical break of colored stars that burn without a tail effect. The peony is the most commonly seen shell type."
+        },
+        {
+        	"id": 0,
+        	"category": 1,
+        	"name": "chrysanthemum",
+        	"description": "A spherical break of colored stars, similar to a peony, but with stars that leave a visible trail of sparks."
+        },
+        {
+        	"id": 0,
+        	"category": 2,
+        	"name": "willow",
+        	"description": "Similar to a chrysanthemum, but with long-burning silver or gold stars that produce a soft, dome-shaped weeping willow-like effect."
+        },
+        {
+        	"id": 1,
+        	"category": 3,
+        	"name": "ammonium nitrate",
+        	"description": "Ammonium nitrate is the least sensitive of military explosives. For successful detonation, it requires a booster charge. Because of its low sensitivity, ammonium nitrate is a component of many composite explosives (combined with a more sensitive explosive)."
+        },
+        {
+        	"id": 1,
+        	"category": 4,
+        	"name": "plastic",
+        	"description": "Plastic explosive is a soft and hand-moldable solid form of explosive material. Within the field of explosives engineering, plastic explosives are also known as putty explosives."
+        },
+        {
+        	"id": 1,
+        	"category": 5,
+        	"name": "non-dynamite",
+        	"description": "Other explosives often referred to or confused with dynamite"
+        }
+    ]
+}

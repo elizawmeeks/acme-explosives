@@ -1,0 +1,19 @@
+{
+  "name": "slideshow",
+  "version": "1.0.0",
+  "description": "acme explosives nss",
+  "main": "index.html",
+  "scripts": "",
+  "author": "Eliza Meeks",
+  "license": "ISC",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-jshint": "^1.1.0",
+    "grunt-contrib-sass": "^1.0.0",
+    "grunt-contrib-watch": "^1.0.0",
+    "jshint": "^2.9.4",
+    "jshint-stylish": "^2.2.1",
+    "matchdep": "^1.0.1",
+    "materialize": "^1.0.0"
+  }
+}
